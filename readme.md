@@ -3,7 +3,7 @@
 
 <img width="280" src="dog-hello.gif" />
 
-I'm a Software Developer Intern at @ [IBM](https://www.ibm.com/us-en?lnk=m)
+I'm a Software Engineer Intern at [IBM](https://www.ibm.com/us-en?lnk=m)
 
 [![hackerrank](https://img.shields.io/badge/hackerrank-25.svg?style=for-the-badge&logo=hackerrank&color=black)](https://www.hackerrank.com/profile/lettymoon)
 [![exercism](https://img.shields.io/badge/EXERCISM-letty.svg?style=for-the-badge&logo=exercism&logoColor=black&color=%23009CAB)](https://exercism.org/profiles/lettymoon)
