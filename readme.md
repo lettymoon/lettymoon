@@ -1,7 +1,7 @@
 ## Hello, world! 👋
 <div align="center">
 
-<img width="280" src="dog-hello.gif" />
+![image](https://github.com/user-attachments/assets/e7c601c0-7c54-49a7-924f-33e91da5b736)
 
 I'm a Software Engineer Intern at [IBM](https://www.ibm.com/us-en?lnk=m)
 
